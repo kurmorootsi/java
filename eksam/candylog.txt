@@ -1,0 +1,86 @@
+log: kaseke 0.015g
+Kommi nimi: kaseke Kommide arv: 2000 Tootmise aeg: Mon Jan 16 17:22:58 EET 2017
+log: emmake 0.01g
+Kommi nimi: emmake Kommide arv: 5000 Tootmise aeg: Mon Jan 16 17:22:58 EET 2017
+Kommi nimi: Chomedalion Kommide arv: 1550 Tootmise aeg: Mon Jan 16 17:22:58 EET 2017
+About to start packing!
+8550 candys packed!
+log: ValgeBiison 0.02g
+Kommi nimi: ValgeBiison Kommide arv: 4000 Tootmise aeg: Mon Jan 16 17:22:58 EET 2017
+About to start packing!
+4000 candys packed!
+log: kaseke 0.015g
+Kommi nimi: kaseke Kommide arv: 2000 Tootmise aeg: Mon Feb 13 16:41:05 EET 2017
+log: emmake 0.01g
+Kommi nimi: emmake Kommide arv: 5000 Tootmise aeg: Mon Feb 13 16:41:05 EET 2017
+Kommi nimi: Chomedalion Kommide arv: 1550 Tootmise aeg: Mon Feb 13 16:41:05 EET 2017
+About to start packing!
+8550 candys packed!
+log: ValgeBiison 0.02g
+Kommi nimi: ValgeBiison Kommide arv: 4000 Tootmise aeg: Mon Feb 13 16:41:05 EET 2017
+About to start packing!
+4000 candys packed!
+log: kaseke 0.015g
+Kommi nimi: kaseke Kommide arv: 2000 Tootmise aeg: Mon Feb 13 16:41:37 EET 2017
+log: emmake 0.01g
+Kommi nimi: emmake Kommide arv: 5000 Tootmise aeg: Mon Feb 13 16:41:37 EET 2017
+Kommi nimi: Chomedalion Kommide arv: 1550 Tootmise aeg: Mon Feb 13 16:41:37 EET 2017
+About to start packing!
+8550 candys packed!
+log: ValgeBiison 0.02g
+Kommi nimi: ValgeBiison Kommide arv: 4000 Tootmise aeg: Mon Feb 13 16:41:37 EET 2017
+About to start packing!
+4000 candys packed!
+log: kaseke 0.015g
+Kommi nimi: kaseke Kommide arv: 2000 Tootmise aeg: Mon Feb 13 16:42:15 EET 2017
+log: emmake 0.01g
+Kommi nimi: emmake Kommide arv: 5000 Tootmise aeg: Mon Feb 13 16:42:15 EET 2017
+Kommi nimi: Chomedalion Kommide arv: 1550 Tootmise aeg: Mon Feb 13 16:42:15 EET 2017
+About to start packing!
+8550 candys packed!
+log: ValgeBiison 0.02g
+Kommi nimi: ValgeBiison Kommide arv: 4000 Tootmise aeg: Mon Feb 13 16:42:15 EET 2017
+About to start packing!
+4000 candys packed!
+log: kaseke 0.015g
+Kommi nimi: kaseke Kommide arv: 2000 Tootmise aeg: Mon Feb 13 16:42:34 EET 2017
+log: emmake 0.01g
+Kommi nimi: emmake Kommide arv: 5000 Tootmise aeg: Mon Feb 13 16:42:34 EET 2017
+Kommi nimi: Chomedalion Kommide arv: 1550 Tootmise aeg: Mon Feb 13 16:42:34 EET 2017
+About to start packing!
+8550 candys packed!
+log: ValgeBiison 0.02g
+Kommi nimi: ValgeBiison Kommide arv: 4000 Tootmise aeg: Mon Feb 13 16:42:34 EET 2017
+About to start packing!
+4000 candys packed!
+log: kaseke 0.015g
+Kommi nimi: kaseke Kommide arv: 2000 Tootmise aeg: Mon Feb 13 16:42:59 EET 2017
+log: emmake 0.01g
+Kommi nimi: emmake Kommide arv: 5000 Tootmise aeg: Mon Feb 13 16:42:59 EET 2017
+Kommi nimi: Chomedalion Kommide arv: 1550 Tootmise aeg: Mon Feb 13 16:42:59 EET 2017
+About to start packing!
+8550 candys packed!
+log: ValgeBiison 0.02g
+Kommi nimi: ValgeBiison Kommide arv: 4000 Tootmise aeg: Mon Feb 13 16:42:59 EET 2017
+About to start packing!
+4000 candys packed!
+log: kaseke 0.015g
+Kommi nimi: kaseke Kommide arv: 2000 Tootmise aeg: Mon Feb 13 16:43:01 EET 2017
+log: emmake 0.01g
+Kommi nimi: emmake Kommide arv: 5000 Tootmise aeg: Mon Feb 13 16:43:01 EET 2017
+Kommi nimi: Chomedalion Kommide arv: 1550 Tootmise aeg: Mon Feb 13 16:43:01 EET 2017
+About to start packing!
+8550 candys packed!
+log: ValgeBiison 0.02g
+Kommi nimi: ValgeBiison Kommide arv: 4000 Tootmise aeg: Mon Feb 13 16:43:01 EET 2017
+log: kaseke 0.015g
+Kommi nimi: kaseke Kommide arv: 2000 Tootmise aeg: Mon Feb 13 16:44:06 EET 2017
+log: emmake 0.01g
+Kommi nimi: emmake Kommide arv: 5000 Tootmise aeg: Mon Feb 13 16:44:06 EET 2017
+Kommi nimi: Chomedalion Kommide arv: 1550 Tootmise aeg: Mon Feb 13 16:44:06 EET 2017
+About to start packing!
+8550 candys packed!
+log: ValgeBiison 0.02g
+Kommi nimi: ValgeBiison Kommide arv: 4000 Tootmise aeg: Mon Feb 13 16:44:06 EET 2017
+About to start packing!
+4000 candys packed!
