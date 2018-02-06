@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="simplexsl.xsl"?>
+<people>
+    <person>
+        <name>Kurmo</name>
+        <ID>12312312312</ID>
+        <phone>53041016</phone>
+        <address>Varsa 3</address>
+    </person>
+    <person>
+        <name>Kurmo</name>
+        <ID>12312312312</ID>
+        <phone>53041016</phone>
+        <address>Varsa 3</address>
+    </person>
+    <person>
+        <name>Kurmo</name>
+        <ID>12312312312</ID>
+        <phone>53041016</phone>
+        <address>Varsa 3</address>
+    </person>
+    <person>
+        <name>Kurmo</name>
+        <ID>12312312312</ID>
+        <phone>53041016</phone>
+        <address>Varsa 3</address>
+    </person>
+    <person>
+        <name>Kurmo</name>
+        <ID>12312312312</ID>
+        <phone>53041016</phone>
+        <address>Varsa 3</address>
+    </person>
+    <person>
+        <name>Kurmo</name>
+        <ID>12312312312</ID>
+        <phone>53041016</phone>
+        <address>Varsa 3</address>
+    </person>
+</people>
